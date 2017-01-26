@@ -13,25 +13,25 @@ EXPERIENCE
 ----------
 
 ### **Senior Software Engineer**, *Mark43* -- November 2016 – Present
- Design and development of an RMS system that is based on
+ - Design and development of an RMS system that is based on
  - React, Redux, Flow, and Knockout in the FE
  - Java and MySQL on the BE
  - Other technoligies on the stack are
  * AWS, Docker, Redis, Nginx, Git
 
 ### **Software Engineer, Full-Stack**, *Microsoft* -- Aug 2014 – October 2016
- Full-Stack Developer - Developing JavaScript API and web UI for Outlook Mail Add-Ins.  
+ - Full-Stack Developer - Developing JavaScript API and web UI for Outlook Mail Add-Ins.  
  - Server side changes in Exchange: C# 
  - Client side changes in OWA (outlook on web): TypeScript, JavaScript, React, HTML
 
 ### **Software Engineer, Full-Stack**, *Microsoft* -- March 2013 – August 2014
- Developing software for Windows 8.1 Smart Search  
+ - Developing software for Windows 8.1 Smart Search  
  * Hero Crawler, an internal tool that helped Bing finding dead links in Windows Smart Search results. It found about 400 dead links in initial dataset of 10,000 results. 
  - Data Mining and Telemetry databases for Smart Test Selection Tool, helping teams in Microsoft finding the right subset of tests to run before checking in changes/new codes (WPF, Database design, Entity Framework, SQL Server) 
  - Graham Studio, an internal tool for automating Cortana scenarios tests. (WPF, MVVM, Entity Framework) 
  
 ### **Software Developer**, *nventive* -- October 2012 – March 2013
- Developing Windows 8 and Windows Phone 8 applications, C# and Xaml  
+ - Developing Windows 8 and Windows Phone 8 applications, C# and Xaml  
  - Projects: Bing Offers (Windows 8 and Windows Phone 8). 
  
 ### **Software Engineer, Intern**, *Microsoft* -- May 2011 – August 2011
