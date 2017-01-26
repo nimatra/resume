@@ -12,7 +12,7 @@ Technologies
 EXPERIENCE
 ----------
 
-### **Senior Software Engineer**, *Mark43* November 2016 – Present
+### **Senior Software Engineer**, *Mark43* -- November 2016 – Present
  Design and development of an RMS system that is based on
  - React, Redux, Flow, and Knockout in the FE
  - Java and MySQL on the BE
