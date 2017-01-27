@@ -6,6 +6,7 @@ nimatra@gmail.com
 Technologies
 ---------------
 * **Modern Web**: Webpack, Gulp, React.js, Material-UI, Redux, Express
+* **Modern Apps**: Windows 10 Xaml, React-Native
 * **Core Technologies**: Relational-DB, Azure, Node.js, .Net, Java
 * **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
 
