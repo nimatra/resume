@@ -41,7 +41,7 @@ EXPERIENCE
   * Implemented a tool that handled queries and generated reports. 
   * It included Database design as well as SSRS (SQL Server Reporting Service). 
  
-### **Hardware Design Engineer, Full-Stack**, *SRD Co.* -- October 2008 – May 2009 
+### **Hardware Design Engineer**, *SRD Co.* -- October 2008 – May 2009 
 - Digital emulating of AWGN channel on FPGA to test a transceiver operations (BERT / SNR) 
  * Matlab Simulation, HDL implementation. 
  
@@ -53,7 +53,7 @@ EXPERIENCE
 
 EDUCATION
 =========
- - Concordia University, Montreal, Quebec — M.A.Sc Computer Science
- - University of Tehran, Tehran — M.Sc. Computer Architecture
- - University of Tehran, Tehran — B.Sc. Computer Engineering
+ - Concordia University, Montreal, Quebec — M.A.Sc Computer Science - 2012
+ - University of Tehran, Tehran — M.Sc. Computer Architecture - 2009
+ - University of Tehran, Tehran — B.Sc. Computer Engineering - 2007
 
