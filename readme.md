@@ -51,6 +51,10 @@ EXPERIENCE
   * Server – Azure server side process and REST API 
   * Database – Azure SQL Server database with offline data sync using SQLite.
 
+APPS
+=========
+[nimGit](http://nimgit.com)
+
 EDUCATION
 =========
  - Concordia University, Montreal, Quebec — M.A.Sc Computer Science - 2012
