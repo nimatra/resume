@@ -1,19 +1,38 @@
-Nima Tayebi - Senior Software Engineer
+Nima Tayebi - VP of Engineering / Founding Engineer
 ---------------
 nimatra@gmail.com 
 
 
 Technologies
 ---------------
-* **Modern Web**: Webpack, Gulp, React.js, Material-UI, Redux, Express
+* **Modern Web**: Webpack, Gulp, React.js, Redux, Express
 * **Modern Apps**: Windows 10 Xaml, React-Native
-* **Core Technologies**: Relational-DB, Azure, Node.js, .Net, Java
+* **Core Technologies**: Relational-DB, Azure, Node.js, .Net, Java, Ruby
 * **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
-
+* **Database**: SQL Server, MongoDB, CosmosDB, Postgres
 EXPERIENCE
 ----------
 
-### **Senior Software Engineer**, *Mark43* -- November 2016 – Present
+### **VP of Engineering**, *Mosaic* -- December 2018 – Present
+ - Leading teams of local and remote engineers
+ - Design and development of Project Management System that is based on
+  - React, Redux, JS
+  - Ruby, Postgres on the BE
+
+### **Founding Engineer/Engineering Manager**, *Great Jones* -- March 2017 – Nov 2018
+ - Design and development of Property Management System that is based on
+  - React, Redux, TS
+  - CosmosDB, Node, TS on the BE
+  - Other technoligies on the stack are
+   * Azure, Docker, Redis
+ - Design and development of Data Mining System that is based on various technologies
+  - Data scraping: Node, TS, Headless Chrome
+  - Database: CosmosDB
+  - Data Pipeline: Azure Data Pipelines
+  - KNIME
+  - Integrations with: HubSpot and PowerBI
+
+### **Senior Software Engineer**, *Mark43* -- November 2016 – March 2017
  - Design and development of an RMS system that is based on
   - React, Redux, Flow, and Knockout in the FE
   - Java and MySQL on the BE
